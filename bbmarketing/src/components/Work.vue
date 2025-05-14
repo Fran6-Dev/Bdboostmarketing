@@ -99,9 +99,8 @@
               atteindre une croissance constante
             </p>
           </div>
-          <div class="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-4xl mx-auto">
+          <div class="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-4xl mx-auto">
             <div
-              class=""
             >
               <img
                 src="../assets/logonts.png"
@@ -110,11 +109,18 @@
               />
             </div>
             <div
-              class=""
             >
               <img
                 src="../assets/logodelta.png"
                 alt="logo delta"
+                class="h-16 w-auto mx-auto opacity-80 hover:opacity-100 transition-all duration-300"
+              />
+            </div>
+            <div
+            >
+              <img
+                src="../assets/logobsb.png"
+                alt="logo nts"
                 class="h-16 w-auto mx-auto opacity-80 hover:opacity-100 transition-all duration-300"
               />
             </div>
